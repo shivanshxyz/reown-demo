@@ -34,6 +34,17 @@ export const appKitModal = createAppKit({
   features: {
     analytics: true, // Optional - defaults to your Cloud configuration
   },
+  customWallets: [{
+    id: 'labyrinthWallet',
+    name: 'Labyrinth wallet',
+    homepage: 'http://localhost:3001/',
+    image_url: '',
+    mobile_link: '',
+    desktop_link: '',
+    webapp_link: 'http://localhost:3001/',
+    app_store: '',
+    play_store: '',
+  }]
 });
 
 function ContextProvider({ children, cookies }: { children: ReactNode; cookies: string | null }) {

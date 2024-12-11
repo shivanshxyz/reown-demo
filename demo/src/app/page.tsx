@@ -110,9 +110,9 @@ export default function Home() {
         <button type="button" onClick={handleReq}>
           Send Req
         </button>
-        <button type="button" onClick={handleSign}>
+        {/* <button type="button" onClick={handleSign}>
           Sign Message
-        </button>
+        </button> */}
       </main>
     </div>
   );
