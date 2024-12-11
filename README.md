@@ -1,3 +1,11 @@
+# While using walletconnect URI
+https://github.com/user-attachments/assets/d0d3942f-c12d-487c-a751-adb18d3a845e
+
+# While using customwallet URI
+https://github.com/user-attachments/assets/fe1000f3-6897-4350-a162-b784c9fdd322
+
+
+
 # Turborepo starter
 
 This is an official starter Turborepo.
